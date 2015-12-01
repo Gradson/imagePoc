@@ -128,13 +128,13 @@
 			<scope>system</scope>
 			<systemPath>${basedir}/src/main/webapp/WEB-INF/lib/jcgm-core-0.2.0.jar</systemPath>
 		</dependency>
-		<dependency>
+		<!-- <dependency>
 			<groupId>br.com.gauge</groupId>
 			<artifactId>pngj</artifactId>
 			<version>2.0.0</version>
 			<scope>system</scope>
 			<systemPath>${basedir}/src/main/webapp/WEB-INF/lib/pngj-2.0.0.jar</systemPath>
-		</dependency>
+		</dependency> -->
 		<!-- <dependency>
     <groupId>javax.media.jai</groupId>
     <artifactId>com.springsource.javax.media.jai.core</artifactId>
